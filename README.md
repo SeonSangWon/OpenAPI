@@ -6,9 +6,7 @@ Open API를 제공하는 Toy-Project 입니다.
 
 
 ## 개발 환경
-
-IDE : Spring Tool Suite 4.7.1.RELEASE   
-Database : MySQL 5.7.29   
-Language : Java , Python   
-Project  : Spring Boot   
-Library  : React , numpy , Tensorflow
+ - Java 8   
+ - Spring Tool Suite 4.7.1.RELEASE   
+ - Tomcat 8.5
+ - MySQL 5.7.29   
